@@ -6,11 +6,6 @@
     <packaging>pom</packaging>
     <version>0.3.1-SNAPSHOT</version>
     <name>Time Tracker (Parent)</name>
-    <description>
-        This is a simple Maven / Java web project.
-    </description>
-    <inceptionYear>2015</inceptionYear>
-    <url>http://maven.training/</url>
 
     <properties>
         <spring.version>4.1.6.RELEASE</spring.version>
