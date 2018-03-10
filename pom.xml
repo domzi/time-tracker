@@ -5,7 +5,7 @@
     <artifactId>time-tracker-parent</artifactId>
     <packaging>pom</packaging>
     <version>0.3.1-SNAPSHOT</version>
-    <name>Time Tracker (Parent)</name>
+    <name>Time Tracker</name>
 
     <properties>
         <spring.version>4.1.6.RELEASE</spring.version>
